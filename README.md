@@ -7,8 +7,11 @@ Many guides out there are out of date, missing, or never got both working at the
 
 Current guides:
 
-USB flash drive guide- https://magpi.raspberrypi.com/articles/pi-zero-w-smart-usb-flash-drive
+USB flash drive guide- https://magpi.raspberrypi.com/articles/pi-zero-w-smart-usb-flash-drive <br>
 Ethernet gadget guide - https://learn.adafruit.com/turning-your-raspberry-pi-zero-into-a-usb-gadget/ethernet-gadget
+
+To read: https://www.isticktoit.net/?p=1383<br>
+https://forums.raspberrypi.com/viewtopic.php?t=260107
 
 
 End project desire: Pi Zero that you can insert into any computer and turn into a wireless bridge, have SSH access to the Pi, file sharing, possible VNC server
