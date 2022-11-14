@@ -13,5 +13,6 @@ Ethernet gadget guide - https://learn.adafruit.com/turning-your-raspberry-pi-zer
 To read: https://www.isticktoit.net/?p=1383<br>
 https://forums.raspberrypi.com/viewtopic.php?t=260107
 
+More info: https://groups.google.com/g/usbarmory/c/3y_gWMWlOBk/m/s12rVQbYAAAJ
 
 End project desire: Pi Zero that you can insert into any computer and turn into a wireless bridge, have SSH access to the Pi, file sharing, possible VNC server
